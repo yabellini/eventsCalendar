@@ -6,6 +6,7 @@ Check this blog post:
 -Cool calendar: 
   * https://www.royfrancis.com/calendar-plot-with-ggplot2/
   * https://www.royfrancis.com/calendar-plot-shiny-app-and-dynamic-ui/
+  * https://r-charts.com/evolution/calendar-heatmap/
 
 -Heat Map a la github: 
   * https://dominikkoch.github.io/Calendar-Heatmap/
